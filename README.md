@@ -1,4 +1,4 @@
-# DBSCAN ## Density-based spatial clustering of applications with noise
+# DBSCAN (Density-based spatial clustering of applications with noise)
 
 Analysis of Clustering Based on DBSCAN
 
