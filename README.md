@@ -20,3 +20,15 @@ Analysis of Clustering Based on DBSCAN
 - Output : example_of_output.csv
 
 # Significant eps parameter settings in DBSCAN
+
+DBSCAN 기반 클러스터링 분석에 있어서 input 데이터에 맞는 적절한 eps값 세팅을 결정하고 분석하기 위함
+
+## DBSCAN Graph in Example Data
+
+>![Pic1](https://github.com/Xenia101/DBSCAN/blob/master/pic/1.png)
+>
+>k=4 Graph
+
+>![Pic2](https://github.com/Xenia101/DBSCAN/blob/master/pic/2.png)
+>
+>k=100 Graph
