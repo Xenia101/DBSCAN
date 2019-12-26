@@ -17,3 +17,5 @@ Analysis of Clustering Based on DBSCAN
 `python3 DBSCAN.py`
 
 - Output : example_of_output.csv
+
+# Significant eps parameter settings in DBSCAN
