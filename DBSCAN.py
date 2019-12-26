@@ -16,7 +16,7 @@ from sklearn.metrics import confusion_matrix
 from sklearn.pipeline import make_pipeline
 
 data = []
-with open('INPUT/example_of_Input.csv', 'r') as csvFile:
+with open('INPUT/example_of_Input.csv', 'r') as csvFile: # INPUT Anything you want.. (.csv)
     reader = csv.reader(csvFile)
     for row in reader:
         data.append(row)
