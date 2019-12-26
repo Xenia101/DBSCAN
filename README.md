@@ -14,6 +14,6 @@ Analysis of Clustering Based on DBSCAN
 
 - Input : example_of_input.csv 
 
-`python3 LocalOutlierFactor.py`
+`python3 DBSCAN.py`
 
 - Output : example_of_output.csv
