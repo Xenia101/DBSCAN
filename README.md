@@ -23,7 +23,7 @@ clustering = DBSCAN(eps=eps, min_samples=min_samples, metric='euclidean').fit(X)
 
 - Input : example_of_input.csv 
 
-`python3 DBSCAN.py`
+  `python3 DBSCAN.py`
 
 - Output : example_of_output.csv
 
