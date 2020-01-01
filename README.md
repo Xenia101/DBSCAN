@@ -44,10 +44,10 @@ plt.plot(list(range(1,len(total_node)+1)), distanceDec)
 plt.show()
 ```
 
->![Pic1](https://github.com/Xenia101/DBSCAN/blob/master/pic/1.png)
->
->Graph with k=4
+![Pic1](https://github.com/Xenia101/DBSCAN/blob/master/pic/1.png)
 
->![Pic2](https://github.com/Xenia101/DBSCAN/blob/master/pic/2.png)
->
->Graph with k=100
+Graph with k=4
+
+![Pic2](https://github.com/Xenia101/DBSCAN/blob/master/pic/2.png)
+
+Graph with k=100
