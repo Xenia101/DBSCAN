@@ -21,11 +21,11 @@ clustering = DBSCAN(eps=eps, min_samples=min_samples, metric='euclidean').fit(X)
 
 ## 사용 방법
 
-- Input : example_of_input.csv 
+- Input : ```example_of_input.csv```
 
   `python3 DBSCAN.py`
 
-- Output : example_of_output.csv
+- Output : ```example_of_output.csv```
 
 # Significant eps parameter settings in DBSCAN
 
