@@ -14,12 +14,11 @@ import numpy as np
 clustering = DBSCAN(eps=eps, min_samples=min_samples, metric='euclidean').fit(X)
 ```
 
-## 설치 방법
-- 실행 환경 (테스트 환경)
+## Execution / Test Environment
   - Windows 10 or Ubuntu Linux
   - Python 3.x
 
-## 사용 방법
+## Usage
 
 - Input : ```example_of_input.csv```
 
