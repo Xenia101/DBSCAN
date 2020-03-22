@@ -28,7 +28,7 @@ clustering = DBSCAN(eps=eps, min_samples=min_samples, metric='euclidean').fit(X)
 
 ## Significant eps parameter settings in DBSCAN
 
-DBSCAN 기반 클러스터링 분석에 있어서 input 데이터에 맞는 적절한 eps값 세팅을 결정하고 분석하기 위함
+DBSCAN 기반 클러스터링 분석에 있어서 input 데이터에 맞는 **적절한 eps값** 세팅을 결정하고 분석하기 위함
 
 ## DBSCAN Graph in Example Data
 
